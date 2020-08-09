@@ -1,0 +1,3 @@
+to bubble sort
+you have to bubble each data
+then rearrange the data
