@@ -1,1 +1,3 @@
-Richard edited it
+Richard edite i xyz
+Yeah his trying
+Now solve this merge conflict
